@@ -71,7 +71,7 @@ npm start
 ![Login](screenshort/out-6.png)
 ## Admin Page
 ![Upload](screenshort/out-7.png)
-## Cart Page
+## Order Details
 ![Cart](screenshort/out-8.png)
 ## Database MongoDB
 ![Database](screenshort/out-9.png)
