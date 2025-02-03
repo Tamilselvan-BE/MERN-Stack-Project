@@ -62,7 +62,7 @@ npm start
 ```
 
 ## 📸 Screenshots
-(Add screenshots of your application for better visibility)
+![Front Page](screenshort/out-1.png)
 
 ## 🛡️ Security Considerations
 - Environment variables for sensitive data
