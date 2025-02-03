@@ -61,8 +61,20 @@ cd frontend
 npm start
 ```
 
-## 📸 Screenshots
+## 📸 Output Screenshots
 ![Front Page](screenshort/out-1.png)
+![Front Page](screenshort/out-2.png)
+![Front Page](screenshort/out-3.png)
+![Front Page](screenshort/out-4.png)
+![Front Page](screenshort/out-5.png)
+## Login Page
+![Login](screenshort/out-6.png)
+## Admin Page
+![Upload](screenshort/out-7.png)
+## Cart Page
+![Cart](screenshort/out-8.png)
+## Database MongoDB
+![Database](screenshort/out-9.png)
 
 ## 🛡️ Security Considerations
 - Environment variables for sensitive data
